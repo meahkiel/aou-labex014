@@ -1,0 +1,19 @@
+.navlist {
+	display: block;
+	margin: 0;
+}
+
+.navlist .nav-item .nav-link {
+	display: block;
+	padding: 0 15px;
+	text-align: left;
+}
+
+
+#sidebar, #main {
+	min-height: 950px;
+}
+
+.container .row .l4 {
+	min-height: 150px;
+}
